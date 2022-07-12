@@ -24,8 +24,8 @@ or you can check file requirements_capstone.txt
 ### Capstone Case Choice
 
    (Medium) Data kurs US Dollar ke rupiah dari `https://www.exchange-rates.org/history/IDR/USD/T`
-   *Data needed: `harga harian` (daily exchange rate), dan `tanggal` (date)
-   *making plot of exchange rate movement
+   - Data needed: `harga harian` (daily exchange rate), dan `tanggal` (date)
+   - making plot of exchange rate movement
    
 ### Summary
 
